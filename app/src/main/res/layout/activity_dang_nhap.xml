@@ -7,7 +7,7 @@
     android:background="#030507"
     tools:context=".Activity.DangNhapActivity">
 
-<!--    TS.ĐỨC-->
+<!--    TS.ĐỨC HIHI-->
 
     <TextView
         android:id="@+id/textView11"
