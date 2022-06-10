@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:gravity="center_horizontal"
-            android:text="P R O F I L E"
+            android:text="PROFILE"
             android:textColor="#00E0FF"
             android:textSize="32sp"
             android:textStyle="bold" />
@@ -38,16 +38,17 @@
             android:src="@drawable/iconlogodialog"
             app:civ_border_color="#C3C3C3"
             app:civ_border_width="1dp" />
+
         <ImageView
             android:id="@+id/choose_img"
-            android:layout_alignBottom="@+id/img_avt"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
             android:layout_alignEnd="@+id/img_avt"
-            android:src="@drawable/ic_camera_alt_24"
+            android:layout_alignBottom="@+id/img_avt"
             android:background="@drawable/bgr_camera"
             android:padding="8dp"
             android:scaleType="fitXY"
-            android:layout_width="40dp"
-            android:layout_height="40dp"/>
+            android:src="@drawable/ic_camera_alt_24" />
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/edt_update_nameuser"
             android:layout_below="@+id/img_avt"

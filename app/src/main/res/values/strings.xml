@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Music4B</string>
+    <string name="app_name">My Music</string>
     <string name="facebook_app_id">528449238391776</string>
     <string name="fb_login_protocol_scheme">fb528449238391776</string>
     <string name="single">---</string>

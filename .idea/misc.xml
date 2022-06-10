@@ -32,10 +32,15 @@
         <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_thuvien_nghesi.xml" value="0.209375" />
         <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.13094462540716612" />
         <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_trang_chu.xml" value="0.18356164383561643" />
+        <entry key="..\:/DiDong/music/app/src/main/res/layout/activity_dang_nhap.xml" value="0.2" />
+        <entry key="..\:/DiDong/music/app/src/main/res/layout/dialog_update_profile.xml" value="0.1" />
+        <entry key="..\:/DiDong/music/app/src/main/res/layout/fragment_playlist.xml" value="0.1" />
+        <entry key="..\:/DiDong/music/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/DiDong/music/app/src/main/res/layout/fragment_thu_vien.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

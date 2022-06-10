@@ -11,7 +11,7 @@
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:layout_marginTop="32dp"
-        android:layout_marginEnd="12dp"
+        android:layout_marginEnd="16dp"
         android:src="@drawable/imgitem"
         app:civ_border_color="#FFFFFF"
         app:civ_border_width="2dp"
